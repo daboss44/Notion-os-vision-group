@@ -1,0 +1,6 @@
+# .env.example
+NOTION_API_KEY=your-secret-key
+NOTION_DATABASE_ID=your-database-id
+GPT_MODEL=gpt-4
+SYSTEM_OWNER=Da Boss
+PROJECT_NAME=notion-os-vision-group
